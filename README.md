@@ -16,9 +16,9 @@ Si vous possédez déjà un projet Blog, passez directement à la Step 1.
 
 Le but de la Step 1 est de pouvoir intégrer le bundle FosUserBundle à votre projet pour pouvoir créer une administration à votre blog ainsi que de pouvoir créer différents rôles.
 
--Téléchargez le bundle.
--Configurez le pour qu'il fonctionne sur votre projet.
--Définissez des rôles.
--Surchargez les vues.
--Rajoutez des champs à l'inscription.
--Créez une administration.
+- Téléchargez le bundle.
+- Configurez le pour qu'il fonctionne sur votre projet.
+- Définissez des rôles.
+- Surchargez les vues.
+- Rajoutez des champs à l'inscription.
+- Créez une administration.
